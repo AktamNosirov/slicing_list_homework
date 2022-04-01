@@ -13,3 +13,4 @@ def main(list1,n):
     return a[0:-n]
 list1=[1,2,3,4,5,6,7,8]
 print(main(list1,2))
+
