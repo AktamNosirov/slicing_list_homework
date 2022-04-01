@@ -7,5 +7,3 @@ def main(numbers):
         list: return answer.
     """
     return numbers[0:-1:2]
-numbers=[1,2,3,4,5,6,7,8]
-print(main(numbers))
